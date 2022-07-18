@@ -1,0 +1,12 @@
+.chart {
+    height: 400px;
+}
+
+.card {
+    padding : 10px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    right: 15px;
+    bottom: 15px;
+}
